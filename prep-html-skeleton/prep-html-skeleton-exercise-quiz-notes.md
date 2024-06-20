@@ -11,6 +11,7 @@ Answer the following questions in the provided markdown file before turning in t
 <head> element
 <title> element
 <body> element
+
 -->
 - What type of content belongs within the `<head>` of an HTML document?
 <!-- The head tag defines/opens the topic for web documents, but only within search engine optimization meta data.
